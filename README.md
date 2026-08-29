@@ -1,5 +1,7 @@
 # Vitaliia Sivakova - LIA-portfolio för Reforma Sthlm
 
+https://bondarenkovita35-afk.github.io/Reforma-portfolio/
+
 Responsiv portfolio för LIA inom e-commerce och digital utveckling hösten 2026. Fungerar direkt på GitHub Pages.
 
 ## Innehåll
